@@ -1,6 +1,7 @@
 import { Component } from '@angular/core';
 import { estimate_area } from '../app.component';
 
+
 @Component({
   selector: 'app-image-upload',
   templateUrl: './image-upload.component.html',
